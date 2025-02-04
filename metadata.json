@@ -8,25 +8,23 @@
     "bo": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།",
     "en": "Tsongkhapa Lobzang Drakpa"
   },
-  "imported": "2025-02-04T11:19:39.136898",
+  "imported": "2025-02-04T16:35:04.402533",
   "source": null,
   "toolkit_version": "0.0.1",
-  "parser": "GoogleDocTranslationParser",
+  "parser": "DocxNumberListCommentaryParser",
   "initial_creation_type": "google_docx",
   "language": "en",
   "source_metadata": {
-    "commentary_of": " ID202C386"
-  },
-  "bases": [
-    {
-      "C1E6": {
-        "source_metadata": {
-          "total_segments": 0
-        },
-        "base_file": "C1E6.txt"
+    "commentary_of": "I41B73129",
+    "commentary_alignments": [
+      {
+        "source": "I41B73129/layers/E0E6/Tibetan_Segment-04B1.json",
+        "target": "I961F22EB/layers/AF50/Meaning_Segment-AA5C.json"
       }
-    }
-  ],
+    ],
+    "document_id": "1-zf2oTEqljkIp-hHGZ06CfENMtBMrDbWlnntPzA7q3A"
+  },
+  "bases": [],
   "copyright": {
     "status": "Unknown",
     "notice": "",
