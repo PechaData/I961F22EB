@@ -8,7 +8,7 @@
     "bo": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།",
     "en": "Tsongkhapa Lobzang Drakpa"
   },
-  "imported": "2025-02-04T11:11:17.689510",
+  "imported": "2025-02-04T11:12:46.982277",
   "source": null,
   "toolkit_version": "0.0.1",
   "parser": "GoogleDocTranslationParser",
@@ -19,11 +19,11 @@
   },
   "bases": [
     {
-      "7191": {
+      "6442": {
         "source_metadata": {
           "total_segments": 0
         },
-        "base_file": "7191.txt"
+        "base_file": "6442.txt"
       }
     }
   ],
